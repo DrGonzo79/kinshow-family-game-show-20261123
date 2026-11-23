@@ -1,0 +1,8 @@
+{
+  "event":{"honoree":"Ruth","milestone":"80th birthday","date":"December 12","guests":62,"host":"Maya"},
+  "stories":[
+    {"id":"s1","relative":"Daniel · son","year":"1978","story":"Ruth drove a powder-blue station wagon and kept emergency lemon drops in the glove box.","answer":"lemon drops","approved":true},
+    {"id":"s2","relative":"Nina · sister","year":"1964","story":"At sixteen, Ruth won the county pie contest with a peach pie she claimed was an old family recipe.","answer":"peach pie","approved":true},
+    {"id":"s3","relative":"Maya · granddaughter","year":"2012","story":"Ruth taught every grandchild to play gin rummy at the red kitchen table.","answer":"gin rummy","approved":true}
+  ]
+}
